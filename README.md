@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wjplatformer
-- 👀 I’m interested in Networking on Python and C++
+- 👀 I’m interested in Networking and databases on Python and C++. (sockets, server and clients, flask web dev, pandas, SQL)
 -  😁Currently learning C++ Classes and doing a chat app in Python
 -  You can reach me on github, I may be able to answer some questions for python learners. But I advise not to find me because most people in github are pros and I am a Noob😶
 

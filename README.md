@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @Wjplatformer
- [![Scratch Followers](https://img.shields.io/badge/dynamic/json?label=Followers&query=statistics.followers&url=https%3A%2F%2Fscratchdb.lefty.one%2Fv3%2Fuser%2Finfo%2F-Xanimation-&color=ff5959&style=for-the-badge&logo=scratch&logoColor=fff)](https://scratch.mit.edu/users/Wjplatformer/followers/)
+ [![Scratch Followers](https://img.shields.io/badge/dynamic/json?label=Followers&query=statistics.followers&url=https%3A%2F%2Fscratchdb.lefty.one%2Fv3%2Fuser%2Finfo%2FWjplatformer&color=ff5959&style=for-the-badge&logo=scratch&logoColor=fff)](https://scratch.mit.edu/users/Wjplatformer/followers/)
 ### I’m interested and loves doing **Networking and databases on Python and C++**. (sockets, server and clients, flask web dev, pandas, SQL) :grin:
 ---
 -  😃Currently learning C++ Classes and doing a chat app in Python

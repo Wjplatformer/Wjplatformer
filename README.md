@@ -17,6 +17,9 @@
 ### [Scratch](https://scratch.mit.edu/users/Wjplatformer)
 ### [Github](https://github.com/Wjplatformer/Wjplatformer/discussions/1)
 
+## Useful links for me!
+### [badges](https://shields.io/)
+
 <!---
 Wjplatformer/Wjplatformer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

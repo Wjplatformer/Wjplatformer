@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/devxan/devxan/master/wave.gif" width="30px"></a> Hi, I’m @Wjplatformer
+# <img src="https://raw.githubusercontent.com/Wjplatformer/Wjplatformer/main/wave.gif" width="30px"></a> Hi, I’m @Wjplatformer
 ### I’m interested and loves doing **Networking and databases on Python and C++**. (sockets, server and clients, flask web dev, pandas, SQL) :grin:
 ---
 -  😃I'm working on my homework, Exams, A Chat Website built on Python, and WJPScript, my very own general purpose language built on C++. (A private repositary) :sunglasses:

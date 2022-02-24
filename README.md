@@ -2,12 +2,13 @@
 ### I’m interested and loves doing **Networking and databases on Python and C++**. (sockets, server and clients, flask web dev, pandas, SQL) :grin: and is adding knowledge to my programming skill set
 [![Scratch Followers](https://img.shields.io/badge/dynamic/json?label=Followers&query=statistics.followers&url=https%3A%2F%2Fscratchdb.lefty.one%2Fv3%2Fuser%2Finfo%2FWjplatformer&color=darkspringgreen&style=for-the-badge&logo=scratch&logoColor=778899)](https://scratch.mit.edu/users/Wjplatformer/followers/)
 [![Scratch Messages](https://img.shields.io/badge/dynamic/json?label=Unread%20Messages&query=count&url=https%3A%2F%2Fapi.scratch.mit.edu%2Fusers%2FWjplatformer%2Fmessages%2Fcount&color=darkspringgreen&style=for-the-badge&logo=scratch&logoColor=778899)](https://scratch.mit.edu/users/Wjplatformer/followers/)
+[![GitHub Followers](https://img.shields.io/github/followers/Wjplatformer?color=darkspringgreen&logo=github&style=for-the-badge)](https://github.com/Wjplatformer?tab=followers/)
 ---
--  😃I'm working on my homework, Exams, A Chat Website built on Python, and WJPScript, my very own general purpose language built on C++. (A private repositary) :sunglasses:
+-  😃I'm working on my Homework, Exams, A Chat Website built on Python, and WJPScript, my very own general purpose language built on C++. (A private repositary)
 -  🤔You can reach me on [github](https://github.com/Wjplatformer/Wjplatformer/discussions/1) and [scratch](https://scratch.mit.edu/users/Wjplatformer), I may be able to answer some questions for python learners. But I advise not to find me because most people in github are pros and I am a Noob 😶
 
 ## I code...
-- Python
+- Python (for begginers, you can enquire me :smiley:)
 - C++
 - HTML
 - CSS
@@ -19,8 +20,8 @@
 ### [Scratch](https://scratch.mit.edu/users/Wjplatformer)
 ### [Github](https://github.com/Wjplatformer/Wjplatformer/discussions/1)
 
-## Useful links for everyone!
-### [badges](https://shields.io/)
+## Useful links!
+### [Add some status to your markdown :D](https://shields.io/)
 
 <!---
 Wjplatformer/Wjplatformer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

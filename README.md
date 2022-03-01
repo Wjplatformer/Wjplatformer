@@ -24,6 +24,12 @@
 ## Useful links!
 ### [Add some status to your markdown :D](https://shields.io/)
 
+## Future projects and ideas on GH:
+### Dish:
+A fast startup IDE for people who do not have a solid quad core CPU. 
+### WJPScript:
+Already working on it! My own programming language built on C++ which focuses on connectivity and simple and reliable threading
+
 <!---
 Wjplatformer/Wjplatformer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

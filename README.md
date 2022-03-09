@@ -29,6 +29,9 @@
 A fast startup IDE for people who do not have a solid quad core CPU. 
 ### WJPScript:
 Already working on it! My own programming language built on C++ which focuses on connectivity and simple and reliable threading
+### Websites?
+- A google sites for my school (!private!)
+- A github pages site for you to contact me!
 
 <!---
 Wjplatformer/Wjplatformer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

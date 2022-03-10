@@ -17,6 +17,8 @@
 - SQL (extreme begginer)
 - XAML (extreme begginer)
 
+##### Note that these are ranked from most to least experienced
+
 ## :eyes: Contact me!
 ### [Scratch](https://scratch.mit.edu/users/Wjplatformer)
 ### [Github](https://github.com/Wjplatformer/Wjplatformer/discussions/1)

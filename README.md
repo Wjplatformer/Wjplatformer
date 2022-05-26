@@ -7,7 +7,6 @@
 -  😃I'm working on my Homework, Exams, A Chat Website built on Python, and WJPScript, my very own general purpose language built on C++. (A private repositary)
 -  🤔You can reach me on either [github or scratch](#contact), I may be able to answer some questions for python learners. But I advise not to find me because most people in github are experienced and I am a 😶
 -  I am also starting to have interest in cellular simulations. A possibe project is a virus simulation 🤙
-
 ## I code...
 - Python (for begginers, you can enquire me :smiley:)
 - C++
@@ -23,6 +22,12 @@
 ## :eyes: Contact me!
 ### [Scratch](https://scratch.mit.edu/users/Wjplatformer)
 ### [Github](https://github.com/Wjplatformer/Wjplatformer/discussions/1)
+
+---
+
+## My new company!:smiley: It is called [TEL-Code](https://github.com/TEL-Code) (with the dash, yes). I am currently creating the website. Future business partners are welcome :grin:
+
+---
 
 ## Useful links!
 ### [Add some status to your markdown :D](https://shields.io/)

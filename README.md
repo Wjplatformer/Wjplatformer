@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Wjplatformer/Wjplatformer/main/wave.gif" width="30px">Hi, I’m @Wjplatformer
+# <img src="https://raw.githubusercontent.com/Wjplatformer/Wjplatformer/main/wave.gif" style="{width:10px}">Hi, I’m @Wjplatformer
 ### I’m interested and loves doing **Networking and databases on Python and C++**. (sockets, server and clients, flask web dev, pandas, SQL) :grin: and is adding knowledge to my programming skill set
 [![Scratch Followers](https://img.shields.io/badge/dynamic/json?label=Followers&query=statistics.followers&url=https%3A%2F%2Fscratchdb.lefty.one%2Fv3%2Fuser%2Finfo%2FWjplatformer&color=darkspringgreen&style=for-the-badge&logo=scratch&logoColor=778899)](https://scratch.mit.edu/users/Wjplatformer/followers/)
 [![Scratch Messages](https://img.shields.io/badge/dynamic/json?label=Unread%20Messages&query=count&url=https%3A%2F%2Fapi.scratch.mit.edu%2Fusers%2FWjplatformer%2Fmessages%2Fcount&color=darkspringgreen&style=for-the-badge&logo=scratch&logoColor=778899)](https://scratch.mit.edu/users/Wjplatformer/)

@@ -8,10 +8,9 @@
 - C++
 - C#
 - C
+##### Note that these are ranked from most to least experienced
 ## Also
 - Studying
-
-##### Note that these are ranked from most to least experienced
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wjplatformer&theme=soft-green&border=3DDD70)
 <!--[![Scratch Messages](https://img.shields.io/badge/dynamic/json?label=Unread%20Messages&query=count&url=https%3A%2F%2Fapi.scratch.mit.edu%2Fusers%2FWjplatformer%2Fmessages%2Fcount&color=darkspringgreen&style=for-the-badge&logo=scratch&logoColor=778899)](https://scratch.mit.edu/users/Wjplatformer/)-->

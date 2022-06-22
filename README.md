@@ -13,4 +13,5 @@
 - Studying
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wjplatformer&theme=soft-green&border=3DDD70)
+##### Powered by [Scratch](https://scratch.mit.edu/users/Wjplatformer), [GitHub](https://github.com/Wjplatformer) and [Email](mailto:Wjplatformer@gmail.com)
 <!--[![Scratch Messages](https://img.shields.io/badge/dynamic/json?label=Unread%20Messages&query=count&url=https%3A%2F%2Fapi.scratch.mit.edu%2Fusers%2FWjplatformer%2Fmessages%2Fcount&color=darkspringgreen&style=for-the-badge&logo=scratch&logoColor=778899)](https://scratch.mit.edu/users/Wjplatformer/)-->

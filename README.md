@@ -8,7 +8,7 @@
 - C++
 - C#
 - C
-##### Note that these are ranked from most to least experienced
+##### Note that these are ranked from most to least experienced. Full-stack developer without SQL though :(
 ## Also
 - Studying
 

@@ -10,6 +10,7 @@
 - C++
 - C#
 - C
+- MySQL (learning)
 ##### Note that these are ranked from most to least experienced.
 ## Also
 - Studying

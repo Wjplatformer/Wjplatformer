@@ -1,14 +1,16 @@
 # Hi, I’m Wj
 [![Scratch Followers](https://img.shields.io/badge/dynamic/json?label=Followers&query=statistics.followers&url=https%3A%2F%2Fscratchdb.lefty.one%2Fv3%2Fuser%2Finfo%2FWjplatformer&color=darkspringgreen&style=for-the-badge&logo=scratch&logoColor=778899)](https://scratch.mit.edu/users/Wjplatformer/)
 [![GitHub Followers](https://img.shields.io/github/followers/Wjplatformer?color=darkspringgreen&logo=github&style=for-the-badge)](https://github.com/Wjplatformer?tab=followers/)
+- Blocks
 - Python
 - HTML
 - CSS
 - Javascript
+- Unity (no scripts though :( )
 - C++
 - C#
 - C
-##### Note that these are ranked from most to least experienced. Full-stack developer without SQL though :(
+##### Note that these are ranked from most to least experienced.
 ## Also
 - Studying
 

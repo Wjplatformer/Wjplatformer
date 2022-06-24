@@ -6,7 +6,7 @@
 - HTML
 - CSS
 - Javascript
-- Unity (no scripts though :( )
+- Unity (no scripts though)
 - C++
 - C#
 - C

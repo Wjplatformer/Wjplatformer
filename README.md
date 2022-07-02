@@ -1,5 +1,5 @@
 # I'm inactive for 5 months :skull:
-##### so stop messaging me or no more :computer: for you
+##### I have exams. So stop messaging me or no more :computer: for you
 [![Scratch Followers](https://img.shields.io/badge/dynamic/json?label=Followers&query=statistics.followers&url=https%3A%2F%2Fscratchdb.lefty.one%2Fv3%2Fuser%2Finfo%2FWjplatformer&color=darkspringgreen&style=for-the-badge&logo=scratch&logoColor=778899)](https://scratch.mit.edu/users/Wjplatformer/)
 [![GitHub Followers](https://img.shields.io/github/followers/Wjplatformer?color=darkspringgreen&logo=github&style=for-the-badge)](https://github.com/Wjplatformer?tab=followers/)<br>
 - Blocks

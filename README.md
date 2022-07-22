@@ -2,7 +2,7 @@
 ##### I have exams. So stop messaging me or no more :computer: for you
 [![Scratch Followers](https://img.shields.io/badge/dynamic/json?label=Followers&query=statistics.followers&url=https%3A%2F%2Fscratchdb.lefty.one%2Fv3%2Fuser%2Finfo%2FWjplatformer&color=darkspringgreen&style=for-the-badge&logo=scratch&logoColor=778899)](https://scratch.mit.edu/users/Wjplatformer/)
 [![GitHub Followers](https://img.shields.io/github/followers/Wjplatformer?color=darkspringgreen&logo=github&style=for-the-badge)](https://github.com/Wjplatformer?tab=followers/)
-[![Profile Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=wjplatformer.visitor.badge.reloaded&color=darkspringgreen&style=for-the-badge&logo=github)](https://github.com/devxan)
+[![Profile Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=e.visitor.badge.reloaded&color=darkspringgreen&style=for-the-badge&logo=github)](https://github.com/wjplatformer)
 <br>
 - Blocks
 - Python

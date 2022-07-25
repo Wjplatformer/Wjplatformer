@@ -2,7 +2,7 @@
 name: generate animation
 
 on:
-  # run automatically every 6 hours
+  # auto run every hour
   schedule:
     - cron: "0 */ * * *" 
   

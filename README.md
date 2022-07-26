@@ -24,6 +24,7 @@
 - C++
 - C#
 - C
+- GitHub Actions Yaml (because I want to make bots)
 - MySQL (learning)
 ##### Note that these are ranked from most to least experienced.
 ## Also

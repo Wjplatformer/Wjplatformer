@@ -69,8 +69,18 @@
 <li>C</li>
 <li>GitHub Actions Yaml (because I want to make bots)</li>
 <li>MySQL (learning)</li>
-  
+
 ##### Note that these are ranked from most to least experienced.
+
+<br>
+<h1 align='center'>When I'm offline...</h1>
+<li>Paino</li>
+<li>Speedcubing</li>
+<li>Cardistry/Card Magic</li>
+<li>YoYo, Kedama</li>
+<li>Table Tennis</li>
+<li>Plastic Models/Gunpla</li>
+  
 ## Also
 
 <li>Studying</li>

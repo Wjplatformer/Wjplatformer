@@ -80,6 +80,7 @@
 <li>YoYo, Kedama</li>
 <li>Table Tennis</li>
 <li>Plastic Models/Gunpla</li>
+<li>Reading :book:</li>
   
 ## Also
 

@@ -81,6 +81,7 @@
 <li>Table Tennis</li>
 <li>Plastic Models/Gunpla</li>
 <li>Reading :book:</li>
+<li>Learning Sign Language <a href="https://lingojam.com/EOSL%3AEmoji-OrientedSignLanguage">🤞 ✌️👆 👍🤙✌️👇🤞👇🤛 🖖🤞🤛👇 👍✌️👇🤛🙌✌️🤛🤙</a></li>
   
 ## Also
 

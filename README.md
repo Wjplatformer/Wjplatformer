@@ -77,7 +77,7 @@
 <li>Paino</li>
 <li>Speedcubing</li>
 <li>Cardistry/Card Magic</li>
-<li>YoYo, Kedama</li>
+<li>YoYo</li>
 <li>Table Tennis</li>
 <li>Plastic Models/Gunpla</li>
 <li>Reading :book:</li>

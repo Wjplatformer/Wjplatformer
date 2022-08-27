@@ -1,4 +1,4 @@
-<h1 align='center'> I'm inactive for 5 months :skull:</h1>
+<h1 align='center'> I'm inactive for 1 months :skull:</h1>
 <h5 align='center'>I have exams. So stop messaging me or no more :computer: for you</h5>
 
 <div align='center'>

@@ -6,6 +6,9 @@
 [![Scratch Followers](https://img.shields.io/badge/dynamic/json?label=Followers&query=statistics.followers&url=https%3A%2F%2Fscratchdb.lefty.one%2Fv3%2Fuser%2Finfo%2FWjplatformer&color=darkspringgreen&style=for-the-badge&logo=scratch&logoColor=778899)](https://scratch.mit.edu/users/Wjplatformer/)
 [![GitHub Followers](https://img.shields.io/github/followers/Wjplatformer?color=darkspringgreen&logo=github&style=for-the-badge)](https://github.com/Wjplatformer?tab=followers/)
 [![Profile Visitors](https://komarev.com/ghpvc/?username=wjplatformer&label=Profile%20views&color=brightgreen&style=for-the-badge&logo=github)](https://github.com/wjplatformer)
+
+<img src="https://discord.c99.nl/widget/theme-3/985078244384595999.png">
+
 <!-- ![Editor](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Editor 2](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Editor 3](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)

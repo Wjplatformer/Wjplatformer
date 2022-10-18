@@ -76,7 +76,7 @@
 <li>C#</li>
 <li>C</li>
 <li>GitHub Actions Yaml (because I want to make bots)</li>
-<li>MySQL (learning)</li>
+<li>MySQL (begginer)</li>
 
 ##### Note that these are ranked from most to least experienced.
 

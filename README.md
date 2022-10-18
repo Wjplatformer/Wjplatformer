@@ -1,5 +1,5 @@
-<h1 align='center'> I'm inactive for 1 week :skull:</h1>
-<h5 align='center'>pls be patient</h5>
+<h1 align='center'>Go to my site</h1>
+<h5 align='center'>https://wjplatformer.github.io</h5>
 
 <div align='center'>
   
@@ -89,9 +89,6 @@
 <li>Table Tennis</li>
 <li>Plastic Models/Gunpla</li>
 <li>Reading :book:</li>
-<li>Learning Morse -.-. --- -.. .
-
-</a></li>
   
 ## Also
 

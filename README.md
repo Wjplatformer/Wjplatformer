@@ -72,11 +72,11 @@
 <li>CSS</li>
 <li>Javascript</li>
 <li>Unity (no scripts though)</li>
+<li>SQL on MySQL (begginer)</li>
 <li>C++</li>
 <li>C#</li>
 <li>C</li>
 <li>GitHub Actions Yaml (because I want to make bots)</li>
-<li>MySQL (begginer)</li>
 
 ##### Note that these are ranked from most to least experienced.
 

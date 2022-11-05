@@ -71,7 +71,7 @@
 <li>HTML</li>
 <li>CSS</li>
 <li>Javascript</li>
-<li>Unity (no scripts though)</li>
+<li>Unity (begginer)</li>
 <li>SQL on MySQL (begginer)</li>
 <li>C++</li>
 <li>C#</li>

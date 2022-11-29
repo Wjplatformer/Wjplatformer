@@ -1,4 +1,7 @@
+<div align='center'>
 
-
+[![Logo](Wj.png)](https://wjplatformer.github.io)
+  
 ##### Powered by [Twitter](https://twitter.com/wjplatformer), [Scratch](https://scratch.mit.edu/users/Wjplatformer), [GitHub](https://github.com/Wjplatformer), [GitLab](https://gitlab.com/Wjplatformer), [DEV](https://dev.to/Wjplatformer/), [ppl](https://ppl.moe/u/Wjplatformer), [Repl.it](https://replit.com/@Wjplatformer?username=Wjplatformer), [Figma](https://figma.com/@Wjplatformer), [Pronouns](https://en.pronouns.page/@wjplatformer), [Polywork](https://poly.work/wjplatformer) and [Email](mailto:Wjplatformer@gmail.com)
-<!--[![Scratch Messages](https://img.shields.io/badge/dynamic/json?label=Unread%20Messages&query=count&url=https%3A%2F%2Fapi.scratch.mit.edu%2Fusers%2FWjplatformer%2Fmessages%2Fcount&color=darkspringgreen&style=for-the-badge&logo=scratch&logoColor=778899)](https://scratch.mit.edu/users/Wjplatformer/)
+
+</div>

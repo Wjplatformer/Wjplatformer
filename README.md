@@ -1,5 +1,7 @@
 <div align='center'>
-
-[![Logo](break.png)](https://wjplatformer.github.io)
+  
+"some things are meant to be seen<br>
+but other things are meant to be experienced"<br>
+- anonymous
 
 </div>

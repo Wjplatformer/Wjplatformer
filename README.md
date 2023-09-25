@@ -1,7 +1,6 @@
 <div align='center'>
   
-"some things are meant to be seen<br>
-but other things are meant to be experienced"<br>
-~ anonymous
+"You know G, sometimes you may feel like fighting that guy over there. But we are retired now, all we do is sit in our buggatis and smoke cigars. Got it G?"<br>
+~ G
 
 </div>
